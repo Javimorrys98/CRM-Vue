@@ -1,0 +1,13 @@
+{
+  "clientes": [
+    {
+      "id": "84b7",
+      "nombre": "Gulita",
+      "apellido": "De combate",
+      "email": "gulita@gmail.com",
+      "telefono": "123-123-1234",
+      "empresa": "HUVR",
+      "puesto": "Medica pro"
+    }
+  ]
+}
