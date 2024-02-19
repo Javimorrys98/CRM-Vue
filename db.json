@@ -1,13 +1,24 @@
 {
   "clientes": [
     {
-      "id": "84b7",
-      "nombre": "Gulita",
-      "apellido": "De combate",
-      "email": "gulita@gmail.com",
+      "nombre": "Javier",
+      "apellido": "Tomé Roldán",
+      "email": "jtomeroldan@gmail.com",
+      "telefono": "640-792-6581",
+      "empresa": "Numier",
+      "puesto": "Desarrollador",
+      "id": "82af",
+      "estado": true
+    },
+    {
+      "id": "6c08",
+      "nombre": "Elia",
+      "apellido": "Artigas",
+      "email": "eliartper1999@gmail.com",
       "telefono": "123-123-1234",
       "empresa": "HUVR",
-      "puesto": "Medica pro"
+      "puesto": "Medica pro",
+      "estado": false
     }
   ]
 }
